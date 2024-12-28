@@ -5,6 +5,10 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#_Day1", "C#_Day1\C#_Day1.csproj", "{26F3CE2F-B9AF-4ACE-BBF5-C305A87A9876}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#_Day5", "C#_Day5\C#_Day5.csproj", "{9451B507-3CE1-4795-8D07-C4DE2599A4F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackImplement", "StackImplement\StackImplement.csproj", "{3252DB6C-AE95-4793-85AF-B02193569285}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{26F3CE2F-B9AF-4ACE-BBF5-C305A87A9876}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26F3CE2F-B9AF-4ACE-BBF5-C305A87A9876}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26F3CE2F-B9AF-4ACE-BBF5-C305A87A9876}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9451B507-3CE1-4795-8D07-C4DE2599A4F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9451B507-3CE1-4795-8D07-C4DE2599A4F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9451B507-3CE1-4795-8D07-C4DE2599A4F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9451B507-3CE1-4795-8D07-C4DE2599A4F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3252DB6C-AE95-4793-85AF-B02193569285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3252DB6C-AE95-4793-85AF-B02193569285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3252DB6C-AE95-4793-85AF-B02193569285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3252DB6C-AE95-4793-85AF-B02193569285}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

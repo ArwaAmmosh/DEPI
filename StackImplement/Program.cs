@@ -7,6 +7,7 @@ namespace StackImplement
         static void Main(string[] args)
         {
             Console.WriteLine("Enter -1 to exist loop");
+            StackImplement<int> stackImplement = new StackImplement<int>();
             while (true)
             {
                 Console.Write("Enter Number: ");
@@ -17,11 +18,16 @@ namespace StackImplement
                 else
                 {
                    
-                   StackImplement.Add(num);
+                   stackImplement._Push(num);
 
                 }
             }
-            StackImplement.print();
+            stackImplement.print();
+            stackImplement._pop();
+            stackImplement._peek();
+            stackImplement._pop();
+            stackImplement._peek();
+
         }
     }
 }

@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#_Day5", "C#_Day5\C#_Day5.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackImplement", "StackImplement\StackImplement.csproj", "{3252DB6C-AE95-4793-85AF-B02193569285}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtentionMethod", "ExtentionMethod\ExtentionMethod.csproj", "{0EB09501-18B3-4752-9CBB-628C3982D0DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate", "Delegate\Delegate.csproj", "{5FB2CAFE-0F0A-4D91-B30F-4B9EBDD5CF8F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{3252DB6C-AE95-4793-85AF-B02193569285}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3252DB6C-AE95-4793-85AF-B02193569285}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3252DB6C-AE95-4793-85AF-B02193569285}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EB09501-18B3-4752-9CBB-628C3982D0DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EB09501-18B3-4752-9CBB-628C3982D0DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EB09501-18B3-4752-9CBB-628C3982D0DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EB09501-18B3-4752-9CBB-628C3982D0DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FB2CAFE-0F0A-4D91-B30F-4B9EBDD5CF8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FB2CAFE-0F0A-4D91-B30F-4B9EBDD5CF8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FB2CAFE-0F0A-4D91-B30F-4B9EBDD5CF8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FB2CAFE-0F0A-4D91-B30F-4B9EBDD5CF8F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
